@@ -9,4 +9,6 @@ int main()
 	int f=a/b;
 	int c=a*b;
 	printf("%d",c);
+	printf("%d",e);
+	printf("%d",f);
 }
